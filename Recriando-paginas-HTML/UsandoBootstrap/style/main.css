@@ -1,0 +1,32 @@
+.body {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar-brand{
+    padding-left: 30px;
+}
+
+.navbar {
+    background-color: rgb(59, 143, 115);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.quem-somos {
+    background-color: rgb(83, 83, 196);
+    color: wheat;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: teal;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
